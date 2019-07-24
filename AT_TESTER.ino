@@ -1,5 +1,5 @@
  /*
-  * File  : DFRobot_SIM7000_ATtest.ino
+  * File  : AT_TESTER.ino
   * Power : SIM7000 needs 7-12V DC power supply
   * Brief : This example use the serial port to send AT command to control the SIM7000
   *         With initialization completed, we can enter AT command to SIM7000 directly
