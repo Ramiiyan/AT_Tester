@@ -4,4 +4,6 @@
 - In Arduino IDE select the correct port.
 - Upload the code.
 - Test your AT commands in Serial monitor.
-**defaultly baud rate-115200 **
+
+__default baudrate - 115200__
+
